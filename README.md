@@ -12,4 +12,7 @@ must enter either 1, 2, or 3 respectively and press enter.
 It will then prompt the user with a tree depth of choice, 1 through 6. The user must enter a number 1
 through 6 and click enter, then the decision tree will go to work.
 
-How to use Adaboost, bagging, 
+How to use Adaboost, bagging, random forest, LMS with batch-gradient and stochastic gradient:
+
+It will prompt the user with their preferred selection of adaboost, bagging, random forest, or LMS.
+When the user selects LMS, it will prompt the user with batch-gradient and stochastic gradient.
