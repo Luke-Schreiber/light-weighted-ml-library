@@ -16,3 +16,6 @@ How to use Adaboost, bagging, random forest, LMS with batch-gradient and stochas
 
 It will prompt the user with their preferred selection of adaboost, bagging, random forest, or LMS.
 When the user selects LMS, it will prompt the user with batch-gradient and stochastic gradient.
+
+All parameter changes will be prompted to the user with options, and the user enters the number corresponding with the option
+
