@@ -19,3 +19,6 @@ When the user selects LMS, it will prompt the user with batch-gradient and stoch
 
 All parameter changes will be prompted to the user with options, and the user enters the number corresponding with the option
 
+How to use Perceptron:
+
+Run the run.sh file and the answers for each perceptron type (standard, voted, averaged) will be printed.
