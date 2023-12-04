@@ -24,3 +24,5 @@ How to use Perceptron:
 Run the run.sh file and the answers for each perceptron type (standard, voted, averaged) will be printed.
 
 How to use SVM:
+
+Run all, the results will be printed in the console.
