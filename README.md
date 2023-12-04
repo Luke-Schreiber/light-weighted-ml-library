@@ -22,3 +22,5 @@ All parameter changes will be prompted to the user with options, and the user en
 How to use Perceptron:
 
 Run the run.sh file and the answers for each perceptron type (standard, voted, averaged) will be printed.
+
+How to use SVM:
